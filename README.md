@@ -1,1 +1,3 @@
-# pandas-challenge
+This project will analyze data from a school district. The jupyter notebook file titled "PyCitySchools_analysis.ipynb" can be found in the folder labeled "PyCitySchools" and contains summaries of the district, schools, top performing schools (By overall passing percentage), bottom performing schools (By overall passing percentage), math scores by grade, reading scores by grade, school spending, scores by school size, and scores by school type.
+
+One observable trend is that passing math scores tend to follow school passing scores, as opposed to grade level. I also noticed that reading scores tend to be higher than math scores.
